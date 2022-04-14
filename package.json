@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/icons": "^4.11.2",
+    "framer-motion": "^4.1.17",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2",
     "react-scripts": "3.0.1",
-    "dummy-component": "git+https://github.com/recraftrelic/dummy-react-npm-module.git"
+    "serve": "^13.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
